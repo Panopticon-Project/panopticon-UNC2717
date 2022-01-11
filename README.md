@@ -7,3 +7,5 @@ https://securityaffairs.co/wordpress/118579/apt/metropolitan-transportation-auth
 https://www.fireeye.com/blog/threat-research/2021/04/suspected-apt-actors-leverage-bypass-techniques-pulse-secure-zero-day.html
 
 https://www.fireeye.com/blog/threat-research/2021/05/updates-on-chinese-apt-compromising-pulse-secure-vpn-devices.html
+
+https://www.mandiant.com/resources/updates-on-chinese-apt-compromising-pulse-secure-vpn-devices
